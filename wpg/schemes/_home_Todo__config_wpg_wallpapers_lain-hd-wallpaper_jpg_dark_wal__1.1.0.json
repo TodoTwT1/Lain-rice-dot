@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/Todo/.config/wpg/wallpapers/lain-hd-wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010101",
+        "foreground": "#e8c9c6",
+        "cursor": "#e8c9c6"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#AB877B",
+        "color2": "#BD7B81",
+        "color3": "#D2748B",
+        "color4": "#BCA28B",
+        "color5": "#CA958F",
+        "color6": "#C3B192",
+        "color7": "#e8c9c6",
+        "color8": "#a28c8a",
+        "color9": "#AB877B",
+        "color10": "#BD7B81",
+        "color11": "#D2748B",
+        "color12": "#BCA28B",
+        "color13": "#CA958F",
+        "color14": "#C3B192",
+        "color15": "#e8c9c6"
+    }
+}
